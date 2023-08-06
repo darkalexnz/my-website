@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'ABCNZ'
+[module]
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
